@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41eb2cb0-2bfd-492e-943a-30eacd223c83" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D2AC4227-D2C3-4EAF-8663-2B57F42AF586/d0/8358f251/UnityWebRequestAsyncOperation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D2AC4227-D2C3-4EAF-8663-2B57F42AF586/23/60290f62/UnityWebRequest.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/07C89F75-2069-4139-9913-32D3CF930D48/ab/f75e9046/AsyncOperation.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Networking/AddonDownloader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Networking/BundleDownloader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Networking/GetNetLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Networking/HeadNetLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Networking/HttpLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Networking/NetLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Networking/PostNetLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Networking/NetSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Networking/NetUtils.cs" />
+        <option value="$PROJECT_DIR$/Assets/Networking/UnityWebRequestLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Examples/NetExamples.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="25PqYDqkfKJgHiv9nA9MqfRhP93" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41eb2cb0-2bfd-492e-943a-30eacd223c83" name="Default Changelist" comment="" />
+      <created>1645439114745</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645439114745</updated>
+      <workItem from="1645439127649" duration="5425000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="638" y="273" width="644" height="534" key="find.popup" timestamp="1645439444842">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="638" y="273" width="644" height="534" key="find.popup/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1645439444842" />
+  </component>
+</project>
