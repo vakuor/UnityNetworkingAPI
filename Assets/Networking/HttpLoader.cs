@@ -1,6 +1,5 @@
 using System.Collections.Generic;
 using System.Threading;
-using Networking;
 using UnityEngine.Networking;
 
 namespace Networking

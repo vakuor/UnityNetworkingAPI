@@ -21,7 +21,7 @@ namespace Networking
             byte[] bytes = Encoding.UTF8.GetBytes(postData);
             var request = UnityWebRequest.Put(url, bytes);
             request.method = "POST";
-            return request;;
+            return request;
         }
 
         protected override string GetResult(UnityWebRequest webRequest)

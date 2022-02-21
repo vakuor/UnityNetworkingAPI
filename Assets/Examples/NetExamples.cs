@@ -7,16 +7,25 @@ namespace Examples
 {
 	public class NetExamples
 	{
-		private async Task GetLoad(string url)
+		public async Task GetLoad(string url)
 		{
-			HttpLoader<string> loader = new GetNetLoader(url);
+			NetLoader<string> loader = new GetNetLoader(url);
 			loader.SetProgressCallback(DisplayProgress);
+			//loader.SetHeaders(NetSettings.DefaultHeaders);
+			await loader.Download();
+			Debug.Log(loader.Result);
+		}
+
+		public async Task PostLoad(string url)
+		{
+			string postData = System.IO.File.ReadAllText("F:\\Projects\\Unity\\UnityNetworkingAPI\\Assets\\Examples\\post.json");
+			HttpLoader<string> loader = new PostNetLoader(url, postData);
 			loader.SetHeaders(NetSettings.DefaultHeaders);
 			await loader.Download();
 			Debug.Log(loader.Result);
 		}
 
-		private async Task BundleDownload(string bundleName, Action<float> progressCallback = null)
+		public async Task BundleDownload(string bundleName, Action<float> progressCallback = null)
 		{
 			if (IsBundleExists(bundleName))
 			{
